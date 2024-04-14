@@ -1,0 +1,12 @@
+{
+  "deno.enable": true,
+  "deno.importMap": "./deno.json",
+  "deno.unstable": true,
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "cSpell.words": [
+    "dlatk",
+    "endregion",
+    "happynodetokenizer",
+    "stopwords"
+  ],
+}

@@ -1,0 +1,21 @@
+{
+  "lock": false,
+  "fmt": {
+    "lineWidth": 120,
+    "singleQuote": true,
+    "include": ["./src/**/*.ts"]
+  },
+  "imports": {
+    "cli": "https://deno.land/std@0.222.1/cli/mod.ts",
+    "csv": "https://deno.land/std@0.222.1/csv/mod.ts",
+    "path": "https://deno.land/std@0.222.1/path/mod.ts",
+    "tokenizer": "jsr:@phughesmcr/happynodetokenizer"
+  },
+  "tasks": {
+    "tokenize": "deno run -A --unstable src/tokenize.ts",
+    "tokenize:default": "deno task tokenize -i=./vendor/erv.csv -o=./output/tokens.csv --locale=en-gb --verbose",
+    "modernize": "deno run -A --unstable src/modernize.ts",
+    "modernize:default": "deno task modernize -i=./vendor/erv.csv -o=./output/modernized.csv",
+    "start": "deno task tokenize:default && deno task modernize:default"
+  }
+}

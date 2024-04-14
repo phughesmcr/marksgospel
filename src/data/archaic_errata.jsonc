@@ -1,0 +1,20 @@
+// replacements which correct errors as a result of the replacement of archaic tokens and phrases
+[
+  // "asunder" > "apart" > "privately"
+  ["torn privately", "torn apart"],
+  ["let not man put privately", "let not man put apart"],
+  // "ministered" > "served"
+  ["served to", "served"],
+  // "forth" > "out"
+  ["Stand out", "Stand up"],
+  // "cometh" > "came" causes a lot of problems:
+  ["There came after", "There comes after"],
+  ["immediately came Satan", "immediately comes Satan"],
+  ["Blessed is he that came in the name of the Lord", "Blessed is he who comes in the name of the Lord"],
+  ["Blessed is the kingdom that came", "Blessed is the kingdom that is coming"],
+  ["what he said came to pass", "what he said will come to pass"],
+  ["the lord of the house came", "the lord of the house will come"],
+  ["whether Elijah came to take", "whether Elijah comes to take"],
+  // "difficultly" isn't really a word
+  ["How difficultly will they that have riches enter into the kingdom of God", "How difficult it will be for they that have riches to enter into the kingdom of God"]
+]

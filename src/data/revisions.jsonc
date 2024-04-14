@@ -1,0 +1,264 @@
+{
+  "41001001": [
+    /**
+     * lots of people think "Christ" is Jesus' surname.
+     * It feels more helpful to add "the" to indicate a title and a parallel with "the Messiah", "the Anointed One", etc.
+     * I chose "the Messiah" over "the Anointed" because it encapsulates anointing anyway
+     */
+    ["Jesus Christ", "Jesus the Messiah"]
+  ],
+  "41001002": [
+    // "in the book of Isaiah the prophet" felt too wordy, by Isaiah is consistent with tradition if not historical criticism and is more concise
+    ["written in Isaiah", "written by Isaiah"]
+  ],
+  "41001003": [
+    // crying "out" to distinguish from crying in tears
+    ["one crying in", "one crying out in"],
+    /**
+     * "make you ready" is not natural modern English.
+     * "prepare" (κατασκευάσει) is used in the previous verse,
+     * and here the Greek is "Ἑτοιμάσατε", so while "prepare" may be
+     * the obvious choice, a different, if less natural, word is appropriate.
+     */
+    ["Make you ready the way of the Lord", "Make ready the way of the Lord"]
+  ],
+  "41001005": [
+    // "there went out to him all" doesn't feel like natural English
+    ["And there went out to him all the country of Judaea", "And all the country of Judaea went out to him"]
+  ],
+  "41001006": [
+    // "and did eat" doesn't feel like natural English
+    ["and did eat locusts and wild honey", "and he ate locusts and wild honey"]
+  ],
+  "41001008": [
+    // anglicise
+    ["baptized", "baptised"],
+    ["baptize", "baptise"]
+  ],
+  "41001009": [
+    // anglicise
+    ["baptized", "baptised"]
+  ],
+  "41001010": [
+    // "like a" feels more natural than "as a"
+    ["as a dove", "like a dove"]
+  ],
+  "41001014": [
+    // "was delivered up" isn't used to mean this anymore, most people would probably think he'd died these days
+    ["John was delivered up", "John was arrested"]
+  ],
+  "41001015": [
+    // the "you" is already implied in modern English
+    ["repent you", "repent"]
+  ],
+  "41001016": [
+    // "brothers" rather than "his brother" to avoid the erroneous implication he is be Jesus' brother
+    ["saw Simon and Andrew the brother of Simon", "saw brothers Simon and Andrew"],
+    // "fishers" isn't used in this way anymore
+    ["for they were fishers", "for they were fishermen"]
+  ],
+  "41001019": [
+    ["who also were", "who were also"]
+  ],
+  "41001021": [
+    ["he entered into", "he went into"]
+  ],
+  "41001022": [
+    ["as having authority", "with authority"],
+    ["not as the scribes", "not like the scribes"]
+  ],
+  "41001026": [
+    // TODO: check this
+    ["tearing him", "seizing him"]
+  ],
+  "41001030": [
+    ["sick of a fever", "sick with a fever"]
+  ],
+  "41001032": [
+    ["at even", "in the evening"],
+    ["when the sun did set", "as the sun set"], // when the sun was setting? TODO: Check greek for tense
+    ["them that", "those that"]
+  ],
+  "41001034": [
+    // "many" is repeated a few syllables before creating a clash, and the Greek is "ποικίλαις" which is more like "various"
+    ["with many diseases", "with various diseases"],
+    // "suffered not" is more archaic
+    ["suffered not", "did not allow"]
+  ],
+  "41001035": [
+    ["he rose up", "he got up"],
+    ["there prayed", "there he prayed"]
+  ],
+  "41001036": [
+    ["they that", "those that"]
+  ],
+  "41001037": [
+    // more consistent with the tense of the first clause
+    ["and say to him", "and said to him"],
+    ["All are seeking you", "Everyone is looking for you"]
+  ],
+  "41001038": [
+    ["for to this end i came out", "for this is what I came to do"]
+  ],
+  "41001040": [
+    ["a leper", "a man with leprosy"],
+    // "wish" or "want" isn't quite right
+    ["If you will", "If you will it"]
+  ],
+  "41001041": [
+    ["I will; be you made clean", "I will it; be made clean"]
+  ],
+  "41001043": [
+    // 4 pronoun switches between this and the next verse, naming Jesus explicitly mitigates confusion
+    ["he strictly", "Jesus strictly"]
+  ],
+  "41001044": [
+    ["to any man", "to anyone"]
+  ],
+  "41001045": [
+    ["no more openly", "no longer openly"],
+    ["was without", "was outdoors"],
+    ["every quarter", "everywhere"]
+  ],
+  "41002001": [
+    ["he entered", "he went"]
+  ],
+  "41002002": [
+    ["no, not even about the door", "not even outside the door"]
+  ],
+  "41002003": [
+    ["they come", "they came"],
+    ["a man paralyzed", "a paralyzed man"],
+    ["borne of four", "carried by four of them"]
+  ],
+  "41002004": [
+    ["for the crowd", "because of the crowd"],
+    ["where he was", "where Jesus was"],
+    ["paralyzed lay", "paralyzed man lay"]
+  ],
+  "41002005": [
+    ["the paralyzed", "the paralyzed man"]
+  ],
+  "41002006": [
+    ["certain of the scribes", "certain scribes"],
+    ["arguing", "quarreling"]
+  ],
+  "41002007": [
+    ["man so speak", "say these things"],
+    ["but one, even God", "but God alone"]
+  ],
+  "41002008": [
+    ["so argued", "were unsettled"],
+    ["argue you", "do you ask"]
+  ],
+  "41002009": [
+    ["Whether", "Which"],
+    ["the paralyzed", "the paralyzed man"],
+    ["and take", "take"]
+  ],
+  "41002010": [
+    ["But that", "But in order that"],
+    ["(he said to the paralyzed)", "- he said to the paralyzed man -"]
+  ],
+  "41002012": [
+    ["before them all", "in front of everyone"],
+    ["We never saw it on this fashion", "We have never seen anything like this"]
+  ],
+  "41002015": [
+    ["there were many", "there were lots of them"]
+  ],
+  "41002017": [
+    ["whole", "well"],
+    ["They that", "Those that"],
+    ["they that", "those that"]
+  ],
+  "41002018": [
+    ["they come and say", "they came and said"],
+    ["fast not", "do not"]
+  ],
+  "41002019": [
+    // "wedding guests" is sometimes used in modern translations but the Greek is specifically masculine
+    ["sons of the bridal-chamber", "groomsmen"]
+  ],
+  "41002021": [
+    ["No man sews", "No one sews"],
+    ["else that which should fill it up takes from it", "otherwise the patch will pull away from it"],
+    ["a worse torn", "a worse tear"]
+  ],
+  "41002022": [
+    ["no man", "no one"],
+    ["else", "otherwise"],
+    ["and the wine perishes, and the skins", "and both the wine and skins are ruined"]
+  ],
+  "41002023": [
+    ["that he was going on the sabbath day through the cornfields", "that he was going through the cornfields on the sabbath day"],
+    ["and his disciples began, as they went, to pluck the ears of corn", "and as they made their way, his disciples began to pluck heads of grain"]
+  ],
+  "41002024": [
+    ["why do they on the sabbath day that which is not lawful", "why are they doing what is not lawful on the sabbath day"]
+  ],
+  "41002026": [
+    ["did eat", "ate"],
+    ["save", "except"],
+    ["gave also", "also gave"],
+    ["them that", "those that"]
+  ],
+  "41002028": [
+    ["so that", "therefore"]
+  ],
+  "41003001": [
+    ["there which had his hand withered", "who had a withered hand"]
+  ],
+  "41003002": [
+    ["they watched him", "they watched Jesus"],
+    ["him, whether", "him to see whether"],
+    ["that they might accuse him", "in order to accuse him"]
+  ],
+  "41003003": [
+    ["And he said to the man that had his hand withered", "And Jesus said to the man with the withered hand"]
+  ],
+  "41003004": [
+    ["And he said to them", "And Jesus said to them"],
+    ["But they held their peace", "But they were silent"]
+  ],
+  "41003005": [
+    ["round about on them", "around at them"]
+  ],
+  "41003006": [
+    ["took counsel", "plotted"]
+  ],
+  "41003009": [
+    ["And he spoke to his disciples, that a little boat should wait on him because of the crowd, lest they should crowd him",
+     "And he spoke to his disciples, instructing them to have a little boat ready so he wouldn't be crushed by the crowd"]
+  ],
+  "41003010": [
+    ["for he had healed many", "because he had healed many"],
+    ["so much so that as many as had plagues pressed upon him that they might touch him", "so much so that all who had diseases pressed upon him, trying to touch him"]
+  ],
+  "41003011": [
+    ["And the unclean spirits, whensoever they saw him,", "And whenever they saw him, the unclean spirits"]
+  ],
+  "41003012": [
+    ["instructed them much", "ordered them"]
+  ],
+  "41003013": [
+    ["mountain", "hills"],
+    ["calls to him whom he himself would", "called to himself those he wanted"]
+  ],
+  "41003017": [
+    ["which is", "which means"]
+  ],
+  "41003019": [
+    // accusative house implies specific house,
+    // many simply translate as "a house", but others translate as "home",
+    // some commentators suggest this is the house of Peter
+    // and so I chose this translation as it may not necessarily
+    // imply Jesus' family home, but a place he felt at home, e.g. Peter's house
+    ["And he came into a house", "And Jesus went home"]
+  ],
+  // a note on 41003020 -
+  // "so that they could not so much as eat bread" is archaic but perfectly northern
+  "41003021": [
+    [""]
+  ]
+}
